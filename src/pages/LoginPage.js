@@ -33,7 +33,7 @@ export default function LoginPage() {
         className={styles.loginForm}
       >
         <label className={styles.label}>
-          Email: wq@email.com
+          Email:
           <input
             type="email"
             name="email"
@@ -43,7 +43,7 @@ export default function LoginPage() {
           />
         </label>
         <label className={styles.label}>
-          Password: wqwqwqwq
+          Password:
           <input
             type="password"
             name="password"
